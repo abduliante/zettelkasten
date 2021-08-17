@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "ec97a4287ee3f511",
+    "type": "split",
+    "children": [
+      {
+        "id": "776a77d5d8aae12b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "202105302238-Git.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3bedc68a019a8fb4",
+    "type": "split",
+    "children": [
+      {
+        "id": "716667e4f36fc4cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d76d5b1f868a732e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "31ee7b91b303da72",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "523b9117000c54ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3b7adf6e701677f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff5f5e7251ee0844",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "202105302238-Git.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "776a77d5d8aae12b",
+  "lastOpenFiles": [
+    "202105302238-Git.md",
+    "202107030746-Random-Thoughts.md",
+    "202106091857-Docker.md",
+    "202107091351-Probability.md",
+    "Topics/Computing/202106251956-Pipes-Sockets-Redirection.md",
+    "Topics/Computing/202106171053-File systems.md",
+    "Topics/Computing/202105091146-Difference-between-interpreter-compiler-jitcompiler.md",
+    "Topics/Computing/202105262221-Containers.md",
+    "Topics/Data Science/202104170325-Disciplines-in-data-science.md",
+    "Topics/Data Science/7.1 365_DataScience.png.png"
+  ]
+}
