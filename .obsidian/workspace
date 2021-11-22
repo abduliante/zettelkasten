@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "202105302238-Git.md",
+            "file": "Untitled.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202105302238-Git.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "776a77d5d8aae12b",
   "lastOpenFiles": [
-    "202105302238-Git.md",
-    "202107030746-Random-Thoughts.md",
+    "Untitled.md",
     "202106091857-Docker.md",
+    "Topics/Data Science/202104170325-Disciplines-in-data-science.md",
+    "Topics/Data Science/Stats/202107091351-Probability.md",
+    "202107030746-Random-Thoughts.md",
+    "Topics/Computing/202105091146-Difference-between-interpreter-compiler-jitcompiler.md",
+    "202105302238-Git.md",
     "202107091351-Probability.md",
     "Topics/Computing/202106251956-Pipes-Sockets-Redirection.md",
-    "Topics/Computing/202106171053-File systems.md",
-    "Topics/Computing/202105091146-Difference-between-interpreter-compiler-jitcompiler.md",
-    "Topics/Computing/202105262221-Containers.md",
-    "Topics/Data Science/202104170325-Disciplines-in-data-science.md",
-    "Topics/Data Science/7.1 365_DataScience.png.png"
+    "Topics/Computing/202106171053-File systems.md"
   ]
 }
